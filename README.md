@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Elias Nepomuceno 👋
+
+---
+
+- 😄 I have experience with Java, JavaScript and TypeScript. 
+- 🌱 I’m currently learning the FullStack Development with Springboot on the back-end, ReactJS to the front-end and React Native to mobile.
+- ⚡ Check out my <a href="https://www.linkedin.com/in/elias-nepomuceno-232273192/">Linkedin</a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnepo&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/eliasnepo/github-readme-stats)
+
 
 <!--
 **eliasnepo/eliasnepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
