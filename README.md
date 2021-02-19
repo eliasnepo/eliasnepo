@@ -2,14 +2,14 @@
 
 ---
 
-- 😄 I have experience with Java, JavaScript and TypeScript. 
-- 🌱 I’m currently learning the Full Stack Development with Spring Boot on back-end, ReactJS on front-end and React Native on mobile.
-- ⚡ You can reach me  on:
+- 📚 I have experience with Java, JavaScript and TypeScript. 
+- 💻 I’m currently learning the Full Stack Development with Spring Boot on back-end, ReactJS on front-end and React Native on mobile.
+- 👩🏻‍💻 You can reach me  on:
 
 <h2 align="center">
-    <a href="https://www.linkedin.com/in/eliasnepo"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/logotipo-do-linkedin_0vh_G5Z8Fq.png" width=32/></a>
-    <a href="http://instagram.com/eliasnepo"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/instagram_IWdkiiLHs.png" width=32/></a>
-    <a href="mailto:eliasnepo12@gmail.com"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/envelope_pOKvGt-1b.png" width=34/></a>
+    <a href="https://www.linkedin.com/in/eliasnepo"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/logotipo-do-linkedin__1__CIt048Ig8.png" width=32/></a>
+    <a href="http://instagram.com/eliasnepo"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/instagram__1__zihO-jCv9.png" width=32/></a>
+    <a href="mailto:eliasnepo12@gmail.com"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/envelope__2__s9lXmhNaF.png" width=34/></a>
 </h2>
 
 
