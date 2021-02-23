@@ -1,9 +1,9 @@
-## Hi there, I'm Elias Nepomuceno 👋
+## Elias Nepomuceno 👩🏻‍💻
 
 ---
 
-- 📚 I have experience with Java, JavaScript and TypeScript. 
-- 💻 I’m currently learning the Full Stack Development with Spring Boot on back-end, ReactJS on front-end and React Native on mobile.
+- 📚 I have experience with **Java, JavaScript and TypeScript.** 
+- 💻 I’m currently learning the Full Stack Development with **Spring Boot** on back-end, **ReactJS** on front-end and **React Native** on mobile.
 - 👩🏻‍💻 You can reach me  on:
 
 <h2 align="center">
