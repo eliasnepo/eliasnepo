@@ -1,9 +1,10 @@
-## Elias Nepomuceno 👩🏻‍💻
+## Hi there, I'm Elias Nepomuceno 👋
 
 ---
 
-- 📚 I have experience with **Java, JavaScript and TypeScript.** 
-- 💻 I’m currently learning the Full Stack Development with **Spring Boot** on back-end, **ReactJS** on front-end and **React Native** on mobile.
+- 📚 I have experience with Java, JavaScript and TypeScript. 
+- 💻 I’m currently learning the Full Stack Development with Spring Boot on back-end, ReactJS on front-end and React Native on mobile.
+- 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/).
 - 👩🏻‍💻 You can reach me  on:
 
 <h2 align="center">
@@ -17,6 +18,12 @@
 
 <h2 align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnepo&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" />
+</h2>
+
+---
+
+<h2 align="center">
+<a href="https://eliasnepo-portfolio.netlify.app/"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_portfolio_UTWgnjYaX.png" /></a>
 </h2>
 
 ---
