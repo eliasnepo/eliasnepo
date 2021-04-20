@@ -3,7 +3,7 @@
 ---
 
 - 📚 Working with Java, JavaScript and TypeScript. 
-- 💻 I’m currently learning the Full Stack Development with Spring Boot on back-end, ReactJS on front-end and React Native on mobile.
+- 💻 Learning the Full Stack Development with Spring Boot/NodeJs, ReactJS and React Native.
 - 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/).
 - 👩🏻‍💻 You can reach me  on:
 
@@ -13,25 +13,21 @@
     <a href="mailto:eliasnepo12@gmail.com"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/envelope__2__s9lXmhNaF.png" width=34/></a>
 </h2>
 
-
 ---
 
-<h2 align="center">
-<a href="https://eliasnepo-portfolio.netlify.app/" target="_blank"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_portfolio_UTWgnjYaX.png" width=116/></a>
-</h2>
-
-
----
-
-<h2 align="center">
+<h3 align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnepo&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" />
-</h2>
+</h3>
 
 ---
 
 
 <!--
 **eliasnepo/eliasnepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h2 align="center">
+<a href="https://eliasnepo-portfolio.netlify.app/" target="_blank"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_portfolio_UTWgnjYaX.png" width=116/></a>
+</h2>
 
 Here are some ideas to get you started:
 
