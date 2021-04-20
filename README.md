@@ -2,7 +2,7 @@
 
 ---
 
-- 📚 I have experience with Java, JavaScript and TypeScript. 
+- 📚 Working with Java, JavaScript and TypeScript. 
 - 💻 I’m currently learning the Full Stack Development with Spring Boot on back-end, ReactJS on front-end and React Native on mobile.
 - 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/).
 - 👩🏻‍💻 You can reach me  on:
