@@ -2,9 +2,9 @@
 
 ---
 
-- 📚 Working with Java, JavaScript and TypeScript. 
-- 💻 Learning the Full Stack Development with Spring Boot/NodeJs, ReactJS and React Native.
-- 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/).
+- 📚 Working with Java, Kotlin and Spring Boot. 
+- 💻 Learning Micronaut, and gRPC.
+<!-- - 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/). -->
 - 👩🏻‍💻 You can reach me  on:
 
 <h2 align="center">
