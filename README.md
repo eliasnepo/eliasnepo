@@ -3,7 +3,7 @@
 ---
 
 - 📚 Working with Java, Kotlin and Spring Boot. 
-- 💻 Learning Micronaut, and gRPC.
+- 💻 Learning Micronaut and gRPC.
 <!-- - 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/). -->
 - 👩🏻‍💻 You can reach me  on:
 
