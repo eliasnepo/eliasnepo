@@ -4,7 +4,6 @@
 
 - 📚 Working with Java, Kotlin and Spring Boot. 
 - 💻 Learning Micronaut and gRPC.
-<!-- - 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/). -->
 - 👩🏻‍💻 You can reach me  on:
 
 <h2 align="center">
@@ -21,24 +20,8 @@
 
 ---
 
-
+<!-- - 😀 See my [portfolio](https://eliasnepo-portfolio.netlify.app/). -->
 <!--
-**eliasnepo/eliasnepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h2 align="center">
-<a href="https://eliasnepo-portfolio.netlify.app/" target="_blank"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_portfolio_UTWgnjYaX.png" width=116/></a>
-</h2>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnepo&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/eliasnepo/github-readme-stats)
 -->
